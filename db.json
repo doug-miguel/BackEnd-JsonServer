@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 8",
+      "price": 2999.99
+    },
+    {
+      "id": 2,
+      "name": "Iphone XR",
+      "price": 6999.99
+    },
+    {
+      "id": 3,
+      "name": "Iphone 11",
+      "price": 7999.99
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12",
+      "price": 9999.99
+    }
+  ]
+}
